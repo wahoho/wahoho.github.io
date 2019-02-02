@@ -15,4 +15,4 @@ I also do crossfit 5 times a week and do olympic weightlifting  3 times in a wee
 
 ### Contact me
 
-[wahoho.yap@gmail.com](wahoho.yap@gmail.com)
+[wahoho.yap@gmail.com](mailto:wahoho.yap@gmail.com)
