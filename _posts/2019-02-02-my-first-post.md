@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## My first post
 
@@ -8,4 +8,3 @@ I could've hosted my blog with AWS or some hosting service but I didn't want to 
 I'll mainly post technical stuffs related to programming (and probably some weightlifting posts) in English and Japanese. I wanted to improve my writing skills in Japanese also.
 
 Jason
-
