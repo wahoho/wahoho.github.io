@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Salesforce development isn’t hard
 
