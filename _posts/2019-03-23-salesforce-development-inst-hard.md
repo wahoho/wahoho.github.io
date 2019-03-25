@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Salesforce development isn’t hard
-
 I have been creating and developing systems for the past 16 years. I started with DBase and Pascal in secondary school, then Java and PHP in university. When I started working, I was doing Java and C#, creating mostly large scale systems. I am now in Tokyo, working for a Japanese company and primarily use Kotlin.
 
 I encountered Salesforce development 2 years ago when I was tasked to integrate our internal system with Salesforce. I never knew nor saw how Apex and Visualforce looked like. I studied everything (development + debugging) on my own and eventually released the customized Salesforce.
